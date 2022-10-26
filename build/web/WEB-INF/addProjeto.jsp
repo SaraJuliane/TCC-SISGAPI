@@ -6,10 +6,9 @@
     <head>
         <meta charset="utf-8">
         <title>Adicionar Projeto</title>
-
+        
         <link rel="stylesheet" type="text/css" href="CSS/cssGeral.css">
         
-
         
     </head>
     <body>
